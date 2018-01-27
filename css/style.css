@@ -18,10 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
-
+*{
+}
 
 #zesty{
-  font: bold 2.5em Baskerville, "Times New Roman", serif;
+  font: normal;
   color: rgb(147, 175, 166);
   text-decoration: none;
 }
@@ -31,18 +32,8 @@ body {
   text-decoration: none;
 }
 
-h1{
-		margin: 0 0 10px 0;
-}
-
-div.picture{
-	border-top: 1px solid rgb(204, 204, 204);
-	margin-top: 5px;
-	padding-top: 5px
-}
-
 h2{
-  font: bold 2em "Times New Roman", serif;
+  font: normal;
   color: rgb(107, 128, 122);
 }
 
@@ -60,25 +51,10 @@ img{
   border-color: rgb(147, 175, 166);
 }
 
-.wrapper p:last-child {
-  color: rgb(85, 85, 85);
-  font: normal .8em "Times New Roman", serif;
-  text-align: right;
-  position: relative;
-  right: 7px
+.press-img:link{
+    color: rgb(204, 204, 204);
 }
 
-p{
-  color: rgb(85, 85, 85);
-}
-
-
-.press a:link{
-  border: 5px solid;
-  border-color: rgb(204, 204, 204);
-}
-
-.press a:hover{
-  border: 5px solid;
-  border-color: rgb(107, 128, 122);
+.press-img:hover{
+    color: rgb(107, 128, 122);
 }
