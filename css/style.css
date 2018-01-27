@@ -52,9 +52,9 @@ img{
 }
 
 .press-img:link{
-    color: rgb(204, 204, 204);
+  border-color: rgb(204, 204, 204);
 }
 
 .press-img:hover{
-    color: rgb(107, 128, 122);
+  border-color: rgb(107, 128, 122);
 }
