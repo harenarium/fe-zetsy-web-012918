@@ -21,8 +21,9 @@ body {
 *{
 }
 
+
 #zesty{
-  font: normal;
+  font: bold 2.5em Baskerville, "Times New Roman", serif;
   color: rgb(147, 175, 166);
   text-decoration: none;
 }
@@ -32,8 +33,18 @@ body {
   text-decoration: none;
 }
 
+h1{
+		margin: 0 0 10px 0;
+}
+
+div.picture{
+	border-top: 1px solid rgb(204, 204, 204);
+	margin-top: 5px;
+	padding-top: 5px
+}
+
 h2{
-  font: normal;
+  font: bold 2em "Times New Roman", serif;
   color: rgb(107, 128, 122);
 }
 
