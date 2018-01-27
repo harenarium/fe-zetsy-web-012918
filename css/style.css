@@ -51,12 +51,12 @@ img{
   border-color: rgb(147, 175, 166);
 }
 
-.press-img:link,.press-img:visited{
+.press-img img:link,.press-img img:visited{
   border: 5px solid;
   border-color: rgb(204, 204, 204);
 }
 
-.press-img:hover{
+.press-img img:hover{
   border: 5px solid;
   border-color: rgb(107, 128, 122);
 }
