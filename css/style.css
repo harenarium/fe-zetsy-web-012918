@@ -51,7 +51,7 @@ img{
   border-color: rgb(147, 175, 166);
 }
 
-.press-img:link{
+.press-img:link,.press-img:visited{
   border: 5px solid;
   border-color: rgb(204, 204, 204);
 }
