@@ -60,3 +60,11 @@ h2{
   border: 5px solid;
   border-color: rgb(107, 128, 122);
 }
+
+.wrapper p:last-child {
+    color: rgb(85, 85, 85);
+    font: normal .8em "Times New Roman", serif;
+    text-align: right;
+    position: relative;
+    right: 7px
+}
